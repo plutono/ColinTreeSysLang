@@ -4,7 +4,7 @@
 
 三个过程，一个是获取系统语言，另外两个分别是判断是否中文或者英文
 
-原网址：http://aix.colintree.cn/down/ColinTreeSysLang  
+原网址：http://www.source-space.cn/down/ColinTreeSysLang  
 作者：ColinTree
 
 
@@ -15,5 +15,5 @@ Version1.0 Update in Dec.2, 2016
 
 Three procedure, get system language code, if system language is Chinese and if syste language is English
 
-Original Web Page：http://aix.colintree.cn/down/ColinTreeSysLang  
+Original Web Page：http://www.source-space.cn/down/ColinTreeSysLang  
 Author: ColinTree
