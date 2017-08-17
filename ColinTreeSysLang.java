@@ -1,8 +1,4 @@
-/**
- * @author ColinTree (colinycl123@gmail.com)
- */
-
-package cn.colintree.aix;
+package cn.colintree.aix.ColinTreeSysLang;
 
 import android.content.*;
 import android.util.*;
