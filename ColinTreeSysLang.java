@@ -36,12 +36,5 @@ implements Component {
     	String language = locale.getLanguage();
     	return language;
     }
-    @SimpleFunction(description = "Return if system default language is chinese")
-    public boolean SysLangIsZh() {
-    	return (SysLang().endsWith("zh"));
-    }
-    @SimpleFunction(description = "Return if system default language is english")
-    public boolean SysLangIsEn() {
-    	return (SysLang().endsWith("en"));
-    }
+   
 }
